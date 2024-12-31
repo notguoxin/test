@@ -1,1 +1,2 @@
-web.facebook.com
+*.facebook.com
+facebook.com
